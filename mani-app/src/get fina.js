@@ -1,0 +1,21 @@
+export default function Getfina(){
+    return(
+        <div>
+            <table>
+                {name.map((apple)=>(
+                    <tr>
+                        <td>
+                            {apple.uname}
+                        </td>
+                        <td>
+                            {apple.dob}
+                        </td>
+                        <td>
+                            {apple.mail}
+                        </td>
+                    </tr>
+                ))}
+            </table>
+        </div>
+    )
+}

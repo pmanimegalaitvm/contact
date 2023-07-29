@@ -1,0 +1,17 @@
+.sambavam{
+    box-shadow: 10px 10px 50px rgb(185, 13, 13);
+} 
+
+.dev{
+    background-image: linear-gradient(rgb(180, 228, 236),rgb(134, 115, 238));
+}   
+.face{
+    background-image: linear-gradient(rgb(225, 101, 12),rgb(134, 115, 238));
+    font-size: 20px ;
+    font-weight: bolder;
+}
+.log{
+    background-image: linear-gradient(rgb(160, 199, 29),rgb(237, 46, 164));
+    font-size: 20px ;
+    font-weight: bolder;
+}
